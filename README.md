@@ -70,7 +70,7 @@ Our main purpose with this Skeleton is to start server application with express 
 
 ## Workflow
 
-![Workflow](![alt text](image-1.png))
+![Application Workflow](workflow.png)
 
 
 ## Encryption
