@@ -15,12 +15,12 @@ Our main purpose with this Skeleton is to start server application with express 
 - Global Error & Response Handler
 - Simple and Standard scaffolding
 - Based on Typescript Syntax
-- Simple & Global Enviroment Configuration
+- Simple & Global Environment Configuration
 - Request/Response Encryption & Decryption Implementation
 - Easily Add new feature
 - Integrated winston Logger
 - Production Ready Skeleton
-- Follwed Production Ready Best Practices: Security
+- Followed Production Ready Best Practices: Security
 - Added only used npm modules
 - Swagger Documentation Support
 - Unit & Integration Test Cases
@@ -56,11 +56,11 @@ Our main purpose with this Skeleton is to start server application with express 
 
 | Name                              | Description |
 | --------------------------------- | ----------- |
-| **wiki/**                         | You can add project documentation and insructions file here |
+| **wiki/**                         | You can add project documentation and instructions file here |
 | **src/**                          | Source files |
-| **src/abstractions**              | Abstarct classes and Interfaces  |
+| **src/abstractions**              | Abstract classes and Interfaces  |
 | **src/components**                | REST API Components & Controllers  |
-| **src/lib**                       | Reusable utilises and library source code like a logger|
+| **src/lib**                       | Reusable utilizes and library source code like a logger|
 | **src/middleware/**               | Express Middlewares like error handler feature |
 | **build/**                        | Compiled source files will be placed here |
 | **tests/**                        | Test cases will be placed here |
